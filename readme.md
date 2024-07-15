@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/NocLi21/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/Batman-Logo.png" alt="Nyebe" width="300" height="160">
   </a>
@@ -64,7 +64,7 @@ Making a visually appealing landing page with a static and animated footer and h
 - What is the project: To create a landing page, a static and animated header and footer
 - Whats the purpose: to bring out the creativity of oneself
 - What are key components: MultiPage Website
-- What technology used and how it is used: I used HTML, CSS and the VS Code to create this website. 
+- What technology used and how it is used: I used HTML, CSS and the VS Code to create this website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
